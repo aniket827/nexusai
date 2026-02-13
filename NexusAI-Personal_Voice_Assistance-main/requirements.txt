@@ -1,0 +1,16 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+requests
+nltk
+textblob
+spacy
+dateparser
+pyautogui
+streamlit
+google-generativeai
+
+# Note: You may also need to download NLTK data and spaCy models after installation
+# Run these commands after pip install:
+# python -m nltk.downloader punkt stopwords wordnet averaged_perceptron_tagger maxent_ne_chunker words
+# python -m spacy download en_core_web_sm

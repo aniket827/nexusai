@@ -1,0 +1,6 @@
+myenv/
+nexus_ai_data/
+__pycache__
+copy_of_main.py
+screenshots/
+.env
